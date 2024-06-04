@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: rgb(61, 60, 60);
+}
+.card{
+    background-color: rgb(245, 210, 164);
+    width: 20%;
+    height: 50vh;
+    margin-left: 35pc;
+    margin-top: 10%;
+    border-top-left-radius: 20px ;
+border-top-right-radius: 20px ; 
+border-bottom-left-radius: 20px ; 
+border-bottom-right-radius: 20px ;  
+}
+.card img{
+ margin-left: 55px;
+ margin-top: 30px;
+ border-top-left-radius: 20px ;
+border-top-right-radius: 20px ; 
+border-bottom-left-radius: 20px ; 
+border-bottom-right-radius: 20px ;  
+}
+.card h4{
+    align-items: center;
+    text-align: center;
+}
+.card p{
+    text-align: center;
+    margin-top: 15px;
+}
